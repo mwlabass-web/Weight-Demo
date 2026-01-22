@@ -1,1 +1,2 @@
 print('hello world') # This is a test
+numFavorite = 2 + 2
